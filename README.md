@@ -54,7 +54,10 @@ The following people have reviewed the code at the time of the linked commit:
 
 Deployed instances with significant funds
 -------------
-- Golem [0x7da82c7ab4771ff031b66538d2fb9b0b047f6cf9] (https://etherscan.io/address/0x7da82c7ab4771ff031b66538d2fb9b0b047f6cf9)
+|Instance | Commit Hash|
+|--|--|
+| Golem [0x7da82c7ab4771ff031b66538d2fb9b0b047f6cf9](https://etherscan.io/address/0x7da82c7ab4771ff031b66538d2fb9b0b047f6cf9) | TODO |
+| Gnosis TODO | TODO |
 
 License
 -------------
