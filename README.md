@@ -27,6 +27,9 @@ python -m unittest discover tests
 Deploy
 -------------
 **Remember to change owner addresses in the respective JSON file before deployment!**
+
+**These contracts are tested with `pragma solidity 0.4.4;` Run your own extensive tests when using newer compilers.**
+
 ### Deploy multisig wallet:
 ```
 cd /vagrant/contracts/
