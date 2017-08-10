@@ -164,8 +164,8 @@ contract MultiSigWallet {
             }
         isOwner[owner] = false;
         isOwner[newOwner] = true;
-        OwnerRemoval(owner);
         OwnerAddition(newOwner);
+        OwnerRemoval(owner);
     }
 
     /// @dev Allows to change the number of required confirmations. Transaction has to be sent by wallet.
